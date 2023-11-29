@@ -1,0 +1,19 @@
+﻿  Astar.cpp
+C:\Users\Administrator\Desktop\Project1\Astar.h(102,25): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  (소스 파일 'Astar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\Project1\Astar.h(102,33): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  (소스 파일 'Astar.cpp'을(를) 컴파일하는 중)
+  
+  Main.cpp
+C:\Users\Administrator\Desktop\Project1\Astar.h(102,25): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\Project1\Astar.h(102,33): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+  PriorityQueue.cpp
+C:\Users\Administrator\Desktop\Project1\PriorityQueue.cpp(48,15): warning C4305: '=': '__int64'에서 'int'(으)로 잘립니다.
+C:\Users\Administrator\Desktop\Project1\PriorityQueue.cpp(48,15): warning C4309: '=': 상수 값이 잘립니다.
+  코드를 생성하고 있습니다...
+  Project1.vcxproj -> C:\Users\Administrator\Desktop\Project1\x64\Debug\Project1.exe
